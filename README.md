@@ -8,7 +8,7 @@ This repository contains a simple Python code to extract images from the **Mars 
 
 ### 🛰️ **How It Works**  
 1. Enter the desired date and time for images.  
-2. The code queries the NASA API for images from the Curiosity rover.  
+2. The code queries the NASA API key/ Rover type/ & Date for images from the Curiosity rover.  
 3. Extracted images are returned for you to explore!
 
 ### 📄 **Data Output**  
